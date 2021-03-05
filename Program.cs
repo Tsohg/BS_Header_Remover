@@ -59,9 +59,7 @@ namespace BS_Header_Remover
         private static void CheckDir(string dir)
         {
             if (!Directory.Exists(dir))
-            {
                 Console.Out.WriteLine("Directory does not exist: " + dir);
-            }
         }
 
         private static void WriteFile(string path, byte[] contents)
