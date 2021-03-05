@@ -1,0 +1,7 @@
+C:\Users\Nathan\source\repos\BS_Header_Remover\BS_Header_Remover\bin\Debug\BS_Header_Remover.exe.config
+C:\Users\Nathan\source\repos\BS_Header_Remover\BS_Header_Remover\bin\Debug\BS_Header_Remover.exe
+C:\Users\Nathan\source\repos\BS_Header_Remover\BS_Header_Remover\bin\Debug\BS_Header_Remover.pdb
+C:\Users\Nathan\source\repos\BS_Header_Remover\BS_Header_Remover\obj\Debug\BS_Header_Remover.csprojAssemblyReference.cache
+C:\Users\Nathan\source\repos\BS_Header_Remover\BS_Header_Remover\obj\Debug\BS_Header_Remover.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\BS_Header_Remover\BS_Header_Remover\obj\Debug\BS_Header_Remover.exe
+C:\Users\Nathan\source\repos\BS_Header_Remover\BS_Header_Remover\obj\Debug\BS_Header_Remover.pdb
