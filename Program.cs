@@ -51,7 +51,7 @@ namespace BS_Header_Remover
         {
             List<string> lua = new List<string>();
             foreach (var file in Directory.GetFiles(inputDir))
-                if (Path.GetExtension(file) == ".lua")
+                if (Path.GetExtension(file) == ".lua" || Path.GetExtension(file).ToLower() == ".luac")
                     lua.Add(file);
             return lua;
         }
