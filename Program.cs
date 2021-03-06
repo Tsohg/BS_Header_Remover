@@ -40,7 +40,7 @@ namespace BS_Header_Remover
                     byte[] trimFile = new byte[stream.Length - 8];
                     stream.Seek(8, SeekOrigin.Begin);
                     stream.Read(trimFile, 0, (int)stream.Length - 8);
-                    WriteFile(outputDir + @"\" + Path.GetFileName(file), trimFile);
+                    WriteFile(outputDir + @"\" + Path.GetFileNameWithoutExtension(file) + ".lua", trimFile);
                 }
                 else
                     Console.Out.WriteLine("The file is not a LuaJit compiled lua file or it lacks the bitsquid header already: " + file);
